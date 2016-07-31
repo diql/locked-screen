@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">一键锁屏</string>
+    <string name="add_device_admin_explanation">锁定屏幕需要获取锁屏权限哦</string>
+</resources>
